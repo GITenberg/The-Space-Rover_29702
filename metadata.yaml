@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33922'
     url: http://www.gutenberg.org/2009/agents/33922
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29702#The-Space-Rover
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
